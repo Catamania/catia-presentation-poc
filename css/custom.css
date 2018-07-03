@@ -1,0 +1,13 @@
+.full-img{
+    width:75%;
+}
+
+.logo-catia {
+    position:absolute;
+    right:10px;
+    top: 10px;
+}
+
+.logo-catia img {
+    width:270px;
+}
