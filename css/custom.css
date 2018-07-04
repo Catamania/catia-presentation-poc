@@ -2,6 +2,10 @@
     width:75%;
 }
 
+.vertical-img{
+    height: 60%;
+}
+
 .logo-catia {
     position:absolute;
     right:10px;
