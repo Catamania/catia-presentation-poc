@@ -53,3 +53,15 @@
     width: 64px;
     margin-bottom: 0px;
 }
+
+.vignettes img {
+    height: 96px;
+}
+
+.reveal section .vignettes img {
+    background-color: white;
+}
+
+ul.no-bullet {
+    list-style-type: none;
+}
